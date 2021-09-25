@@ -18,3 +18,7 @@ class Content ():
         self.country = country
         self.language = language
         self.runtime = runtime
+
+    def avgRating (self):
+        self.rotten + self.imdb / 2
+    def 
